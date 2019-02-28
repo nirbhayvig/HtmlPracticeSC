@@ -17,10 +17,12 @@
     color: rgb(138, 138, 219)
 }
 .imageLeft{
+    align-content: left;
     width: 50%;
     height: 50%;
 }
 .imageRight{
+    align-content: right;
     width: 50%;
     height: 50%;
 }
