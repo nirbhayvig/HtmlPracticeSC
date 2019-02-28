@@ -1,17 +1,16 @@
 .grid-container {
   display: grid;
   grid-template-columns: 75% 25%;
-  background-color: #2196F3;
+  background-image: pictures/color.png;
   padding: 10px;
 }
 .grid-pic {
-  background-color: rgba(199, 20, 20, 0.8);
-  text-align: center;
+    text-align: center;
 }
 .grid-text{
     text-align: center;
     margin: auto;
 }
 .text{
-    font-size: 24em;
+    font-size: 4em;
 }
