@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: 75% 25%;
-  background-image: pictures/color.png;
+  background-image: url("pictures/color.png");
   padding: 10px;
 }
 .grid-pic {
@@ -12,5 +12,6 @@
     margin: auto;
 }
 .text{
+    color: white;
     font-size: 4em;
 }
