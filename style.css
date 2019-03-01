@@ -14,3 +14,20 @@ body {
       text-align: center;
     color:darkgray;
   }
+#grid-container {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  background-image: url("AndyWang.jpg");
+  padding: 10px;
+}
+.grid-pic {
+    text-align: center;
+}
+.grid-text{
+    text-align: center;
+    margin: auto;
+}
+.text{
+    color: white;
+    font-size: 4em;
+}
