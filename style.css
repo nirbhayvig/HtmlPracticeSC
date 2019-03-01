@@ -33,3 +33,9 @@ body {
 #container{
   background-color: aqua;
 }
+#yeet {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: beige;
+  size: 2em;
+  text-align: center;
+}
