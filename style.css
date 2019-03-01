@@ -14,10 +14,9 @@ body {
       text-align: center;
     color:darkgray;
   }
-#grid-container {
+.grid-container {
   display: grid;
-  grid-template-columns: 75% 25%;
-  background-image: url("AndyWang.jpg");
+  grid-template-columns: 50% 50%;
   padding: 10px;
 }
 .grid-pic {
@@ -27,7 +26,10 @@ body {
     text-align: center;
     margin: auto;
 }
-.text{
-    color: white;
+.ThomasText{
+    color: black;
     font-size: 4em;
+}
+#container{
+  background-color: aqua;
 }
