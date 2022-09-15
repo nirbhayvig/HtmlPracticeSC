@@ -14,6 +14,25 @@ body {
       text-align: center;
     color:darkgray;
   }
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding: 10px;
+}
+.grid-pic {
+    text-align: center;
+}
+.grid-text{
+    text-align: center;
+    margin: auto;
+}
+.ThomasText{
+    color: black;
+    font-size: 4em;
+}
+#container{
+  background-color: aqua;
+}
 #yeet {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: beige;
